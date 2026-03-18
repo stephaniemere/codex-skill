@@ -1,0 +1,5 @@
+version: 1
+metadata:
+  display_name: "XLSX Sync Plain Text"
+  short_description: "Apply sync edits and output values-only reports."
+  default_prompt: "Apply requested changes to an uploaded sync workbook, return a values-only file, and generate validation/comparison reports."
