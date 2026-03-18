@@ -1,0 +1,10 @@
+# My Codex Skill
+
+This skill analyzes CSV data.
+
+## Install from GitHub
+npx add-skill your-username/codex-skills --skill my-skill
+
+## Run
+1. Install dependencies: `pip install -r skills/my-skill/requirements.txt`
+2. Use prompts like: "Analyze this CSV and summarize trends."
